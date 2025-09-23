@@ -3,7 +3,7 @@ package model.entities;
 import java.io.Serializable;
 import java.util.Objects;
 
-public class Departament implements Serializable {
+public class Seller implements Serializable {
 
     private static final long serialVersionUID = 1L;
 

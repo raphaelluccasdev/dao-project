@@ -1,7 +1,7 @@
 package application;
 
 import model.entities.Departament;
-import model.entities.Seller;
+
 import java.util.Date;
 
 public class Program {
